@@ -1,136 +1,97 @@
-# SALES-POWERBI-DESKTOP
+# 📊 SALES-POWERBI-DESKTOP
 
-## 📌 Project Overview
-This project is an interactive **Sales Dashboard** developed using **Microsoft Power BI** to analyze sales performance, profitability, shipping, and regional trends. The dashboard enables users to explore business insights through dynamic filters and visualizations, helping stakeholders make data-driven decisions.
-
----
-
-## 🚀 Features
-
-- 📈 Monthly Sales Trend Analysis
-- 💰 Total Sales, Average Sales, Profit, Discount, Quantity & Shipping Days KPIs
-- 📦 Sales Distribution by Category
-- 👥 Sales Analysis by Customer Segment
-- 🌍 Regional Sales Performance
-- 🗺️ State-wise Sales Map
-- 🚚 Shipping Days Analysis by Region
-- 🎛️ Interactive Slicers
-  - Shipment Mode
-  - Profit Status
-  - Category
+An interactive Sales Dashboard built using **Microsoft Power BI** to analyse sales performance, profitability, customer segments, shipping trends, and regional sales.
 
 ---
 
-## 📊 Dashboard Preview
+# 📌 Project Overview
 
-![Sales Dashboard](screenshots/dashboard.png)
-
----
-
-## 📌 Key Performance Indicators (KPIs)
-
-| KPI | Value |
-|------|--------|
-| Average Sales | ₹231 |
-| Total Sales | ₹633K |
-| Total Shipping Days | 293K |
-| Total Profit | ₹86K |
-| Total Discount | ₹435 |
-| Total Quantity | 10K |
+This dashboard provides a comprehensive view of business performance through interactive visualisations. Users can filter data by shipment mode, profit status, and product category to gain actionable insights.
 
 ---
 
-## 📈 Visualizations Used
+# ✨ Features
+
+- Interactive KPI Cards
+- Monthly Sales Trend
+- Sales by Category
+- Sales by Customer Segment
+- Sales by Region
+- State-wise Sales Map
+- Shipping Days Analysis
+- Interactive Slicers
+- Dynamic Filtering
+
+---
+
+# 📈 Dashboard KPIs
+
+- 💰 Total Sales: **₹633K**
+- 📊 Average Sales: **₹231**
+- 💵 Total Profit: **₹86K**
+- 📦 Total Quantity: **10K**
+- 🚚 Total Shipping Days: **293K**
+- 🏷️ Total Discount: **₹435**
+
+---
+
+# 📊 Dashboard Visualisations
 
 - KPI Cards
-- Line Chart (Monthly Sales Trend)
-- Bar Charts
+- Line Chart
+- Bar Chart
 - Treemap
 - Filled Map
-- Interactive Slicers
+- Slicers
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🛠️ Technologies Used
 
-- Microsoft Power BI Desktop
+- Microsoft Power BI
 - Power Query
-- DAX (Data Analysis Expressions)
-- Data Modeling
+- DAX
+- Data Modelling
 
 ---
 
-## 📂 Dataset
+# 📂 Files Included
 
-**Sample Superstore Dataset**
-
-Dataset includes:
-- Orders
-- Sales
-- Profit
-- Discount
-- Quantity
-- Shipping Mode
-- Customer Segment
-- Category
-- State
-- Region
+- `POWERBI-DASHBOARD.pbix`
+- `Sample-Superstore.csv`
+- `README.md`
 
 ---
 
-## 📌 Business Insights
+# 📌 Key Business Insights
 
-- West region recorded the highest sales performance.
-- Technology category generated the highest revenue.
-- Consumer segment contributed the largest share of total sales.
-- Sales showed a declining trend towards the end of the year.
-- Shipping days were highest in the West and East regions.
-
----
-
-## 📁 Repository Structure
-
-```
-Sales-Dashboard/
-│
-├── Sales Dashboard.pbix
-├── README.md
-├── screenshots/
-│   └── dashboard.png
-├── dataset/
-│   └── Sample-Superstore.csv
-└── report.pdf (Optional)
-```
+- Technology category generated the highest sales.
+- Consumer segment contributed the highest revenue.
+- West region recorded the highest sales.
+- Sales gradually declined towards the end of the year.
+- West and East had the highest shipping days.
 
 ---
 
-## ▶️ How to Use
+# ▶️ Getting Started
 
-1. Clone the repository.
-2. Open the `.pbix` file using Microsoft Power BI Desktop.
-3. Refresh the dataset if required.
+1. Download or clone this repository.
+2. Open the `.pbix` file in Microsoft Power BI Desktop.
+3. Refresh the dataset if needed.
 4. Explore the dashboard using the interactive filters.
 
 ---
 
-## 🎯 Learning Outcomes
-
-- Power BI Dashboard Design
-- Data Cleaning using Power Query
-- Data Modeling
-- DAX Measures
-- Interactive Reporting
-- Business Intelligence & Data Visualization
-
----
-
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Adheena P**
 
-- MSc Artificial Intelligence
-- Data Analyst | Power BI Developer | Machine Learning Enthusiast
+Data Analytics Trainer
+
+Data Analyst | Power BI Developer | Machine Learning Enthusiast
 
 ---
 
-⭐ If you found this project useful, consider giving it a **Star** on GitHub.
+## ⭐ Support
+
+If you found this project useful, please consider giving it a **Star ⭐** on GitHub.
